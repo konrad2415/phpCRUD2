@@ -3,9 +3,9 @@
 	class Customers
 	{
 		private $servername = "localhost";
-		private $username 	= "root";
-		private $password 	= "";
-		private $database 	= "blog_database";
+		private $username 	= "konrad";
+		private $password 	= "Hall0w33nday";
+		private $database 	= "blog";
 		public  $con;
 
 
