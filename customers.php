@@ -4,7 +4,7 @@
 	{
 		private $servername = "localhost";
 		private $username 	= "konrad";
-		private $password 	= "Hall0w33nday";
+		private $password 	= " ";
 		private $database 	= "blog";
 		public  $con;
 
